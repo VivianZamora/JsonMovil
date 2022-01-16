@@ -2,35 +2,35 @@
   "users":[
           {
               "user_id": "1",
-              "name": "David Mendoza",
-              "email": "David999",
-              "password": "David2000",
-              "rol": "2022-01-13 14:55:54",
-              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+              "name": "Clark Kent",
+              "email": "Superman@gamil.com",
+              "password": "12345Super",
+              "rol": "1",
+              "img": "https://vader.news/__export/1595821746414/sites/gadgets/img/2020/07/27/2a.jpg_1339199033.jpg"
           },
           {
               "user_id": "2",
-              "name": "David Mendoza",
-              "email": "David999",
-              "password": "David2000",
-              "rol": "2022-01-13 14:55:54",
-              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+              "name": "Joshua Carbo",
+              "email": "carbojoshua@uteq.edu.ec",
+              "password": "Cjoshua123",
+              "rol": "2",
+              "img": "https://image.freepik.com/foto-gratis/chico-guapo-despistado-encogiendose-hombros-manos-levantadas_176420-19630.jpg"
           },
           {
               "user_id": "3",
-              "name": "David Mendoza",
-              "email": "David999",
-              "password": "David2000",
-              "rol": "2022-01-13 14:55:54",
-              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+              "name": "Salomon Mendoza",
+              "email": "Salomonmen@gmail.com",
+              "password": "Salo2000",
+              "rol": "2",
+              "img": "https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/06/john-schneider.jpg"
           },
           {
               "user_id": "4",
-              "name": "David Mendoza",
-              "email": "David999",
-              "password": "David2000",
-              "rol": "2022-01-13 14:55:54",
-              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+              "name": "Teresa Intriago",
+              "email": "Teresita2020@hotmail.com",
+              "password": "12345",
+              "rol": "1",
+              "img": "https://extracine.com/files/2011/03/diane-lane.jpg"
           }
   ]
 
