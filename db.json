@@ -1,0 +1,38 @@
+{
+  "users":[
+          {
+              "user_id": "1",
+              "name": "David Mendoza",
+              "email": "David999",
+              "password": "David2000",
+              "rol": "2022-01-13 14:55:54",
+              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+          },
+          {
+              "user_id": "2",
+              "name": "David Mendoza",
+              "email": "David999",
+              "password": "David2000",
+              "rol": "2022-01-13 14:55:54",
+              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+          },
+          {
+              "user_id": "3",
+              "name": "David Mendoza",
+              "email": "David999",
+              "password": "David2000",
+              "rol": "2022-01-13 14:55:54",
+              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+          },
+          {
+              "user_id": "4",
+              "name": "David Mendoza",
+              "email": "David999",
+              "password": "David2000",
+              "rol": "2022-01-13 14:55:54",
+              "img": "https://revistas.uteq.edu.ec/public/journals/1/cover_issue_86_es_ES.png"
+          }
+  ]
+
+
+}
