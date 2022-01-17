@@ -33,6 +33,46 @@
               "img": "https://extracine.com/files/2011/03/diane-lane.jpg"
           }
   ]
-
-
+    "optionMenu":[
+         {
+            "tipo":"Gobal",
+            "useracces":123,
+            "options":[
+               "Portal",
+               "Perfil de usuario"
+            ]
+         },
+         {
+            "tipo":"Administración",
+            "useracces":1,
+            "options":[
+               "Gestionar usuarios"
+            ]
+         },
+         {
+            "tipo":"Gestión",
+            "useracces":12,
+            "options":[
+               "Gestionar Promociones",
+               "Gestionar Productos"
+            ]
+         },
+         {
+            "tipo":"Opciones Generales",
+            "useracces":123,
+            "options":[
+               "Visualizar Promociones",
+               "Ver Productos"
+            ]
+         },
+         {
+            "tipo":"Otros",
+            "useracces":123,
+            "options":[
+               "Configuración",
+               "Acerca de",
+               "Cerrar Sesión"
+            ]
+         }
+]
 }
